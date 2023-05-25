@@ -1,1 +1,1 @@
-At this time i am learning git and github
+This is chapter 1 
